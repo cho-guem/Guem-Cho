@@ -1,0 +1,5 @@
+{
+  "name": "AI 헤어 디자이너",
+  "description": "Google Gemini 2.5 Flash Image 모델을 사용하여 사진 속 인물의 헤어스타일을 자연스럽게 변경해주는 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
